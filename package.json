@@ -1,0 +1,11 @@
+{
+  "name": "complexity-data",
+  "version": "1.0.0",
+  "description": "~~~\r ‘Complexity’ is an approximate measure of the efficiency of an algorithm.\r 2 kinds of complexities: \r 1.TIME\r 2.Space\r ~~~",
+  "main": "timecomplexity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
